@@ -2,7 +2,7 @@
 Visionando el futuro con las gafas de Manovich
 # Visionando el futuro con las gafas de Manovich
 
-Autor: Tania Pardal Chofle
+Autor: Tania Pardal Chofle 
 
 Fecha: 12 Mayo de 2025
 
