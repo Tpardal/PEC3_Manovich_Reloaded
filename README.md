@@ -15,9 +15,29 @@ Texto
 
 ### Estrategia de hibridación:
 
-Texto 
+La hibridación ocurre cuando el software une distintas formas de representación como a través del texto, la imagen, datos, etc. y les permite operar juntas.
 
+Microsoft 365 Copilot es un gran ejemplo de esta combinación y algunas de sus funcionalidades que podemos relacionar directamente con la hibridación son: 
+
+**-	Escritura e IA conversacional (Word):**
+Copilot fusiona el procesador de textos tradicional con la interacción con los asistentes virtuales (IA). Además de escribir, se han ampliado sus funciones de manera que, con ayuda de la IA que incorpora, es capaz de generar, corregir, resumir o reescribir textos.
+
+**-	Visualización de datos y lenguaje natural (Excel):**
+Se combinan bases de datos, visualización gráfica y lenguaje humano en una experiencia fluida que permite al usuario que pida a Copilot el análisis de datos, la creación de gráficos o incluso la identificación de patrones en un lenguaje natural. 
+
+**-	Presentaciones con generación automática (Powerpoint):**
+Copilot es capaz de generar por el mismo presentaciones de Powerpoint a partir de un documento, resumen o incluso una idea. Haciendo una hibridación del diseño visual, el texto y la automatización gracias a la IA. 
+
+**-	Correo y análisis de contextos (Outlook):**
+Para esta aplicación Copilot ha hibridado la comunicación escrita con la gestión de tareas automáticas. Ya que la propia IA te permite redactar respuestas automáticas, extraer tareas pendientes o incluso resumir el contenido de los correos electrónicos. 
+
+**-	Colaboración entre herramientas inteligente:** 
+Copilot es capaz de combinar la información entre sus distintas aplicaciones generando nuevos documentos o sugiriendo acciones. Lo que hace de Microsoft 365 Copilot un medio compuesto a los ojos de Manovich, integrando múltiples medios y contextos en una sola experiencia. 
+ 
 ### Conclusión:
+
+
+
 
 ## MIRAMON: FUSIÓN DE CIENCIA, IMAGEN Y SOFTWARE
 
