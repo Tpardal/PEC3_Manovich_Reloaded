@@ -92,5 +92,7 @@ Según L. Manovich, este tipo de hibridación solo es posible gracias al softwar
 
 ## REFERENCIAS Y BIBLIOGRAFÍA
 
--   Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
-- 
+- Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+- Gea, M. (2022). **Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto**. Granada: Editorial Universidad de Granada.
+- McMillan, Robert (2012). **Lord of the Files: How Github Tamed Free Software (And More).**
+- Adell, Ferran (2024). **Fundamentos y evolución de la multimedia**. Editorial UOC 
