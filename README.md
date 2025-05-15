@@ -95,4 +95,6 @@ Según L. Manovich, este tipo de hibridación solo es posible gracias al softwar
 - Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 - Gea, M. (2022). **Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto**. Granada: Editorial Universidad de Granada.
 - McMillan, Robert (2012). **Lord of the Files: How Github Tamed Free Software (And More).**
-- Adell, Ferran (2024). **Fundamentos y evolución de la multimedia**. Editorial UOC 
+- Adell, Ferran (2024). **Fundamentos y evolución de la multimedia**. Editorial UOC
+- ¿Que es Miramon? En Miramon.cat. [Consulta: 12/05/2025] Disponible en: https://www.miramon.cat/what_mm/ESP/index.htm
+- Microsoft 365, Wikipedia: la enciclopedia libre. [Consulta: 12/05/2025] Disponible en: https://es.wikipedia.org/wiki/Microsoft_365
