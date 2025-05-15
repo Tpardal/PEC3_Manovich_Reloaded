@@ -19,6 +19,7 @@ A continuación realizo un pequeño análisis de como la hibridación está pres
 
 ## MICROSOFT 365 COPILOT: ESCRITURA, DATOS Y COMUNICACIÓN
 
+
 Microsoft 365 Copilot es la integración de inteligencia artificial dentro de su ya conocido y utilizado Windows 365 y otros servicios que ofrece Microsoft bajo subscripción. 
 
 El conjunto de herramientas (Word, Excel, Outlook, PowerPoint…) que todos conocemos bien, ya que son empleadas a menudo para realizar tareas de escritorio, han sido elevadas a su máxima utilidad gracias a la incorporación de la IA a su software. Con el objetivo de asistir, generar, resumir y automatizar tareas en tiempo real y según los requerimientos, necesidades y características del usuario. 
@@ -26,6 +27,8 @@ El conjunto de herramientas (Word, Excel, Outlook, PowerPoint…) que todos cono
 Microsoft 365 Copilot representa una etapa avanzada de la evolución de las plataformas digitales de productividad. No es simplemente una herramienta auxiliar dentro del ecosistema Office, sino una transformación del medio ofimático tradicional, impulsada por la incorporación de la IA generativa. Para entender este fenómeno, resulta interesante recurrir a la visión de L. Manovich, quien propone que los medios digitales deben analizarse no solo como representaciones, sino como procesos vivos, en evolución constante, *El sofware toma el mando, 2013*. 
 
 Manovich plantea que los medios se comportan de similar manera a los organismos biológicos *“El crecimiento de un nuevo medio se da mediante la adaptación y la adopción de estrategias ya desarrolladas por otros medios”*, (Manovich, 2013, Cap. 4, pp 381). Así podemos entender a Microsoft 365 como un medio en evolución, que ha adoptado estrategias de hibridación para adaptarse a las condiciones digitales actuales. Y me permito hacer el símil de la integración de Copilot como una mutación del organismo dentro de esta evolución.  
+
+![microsoft](https://postimage.me/images/2025/05/15/microsoft.jpg)
 
 ### Estrategia de hibridación:
 
@@ -62,6 +65,8 @@ A pesar de que se empezó a crear a partir del año 1988, no fue hasta el año 1
 Actualmente, es utilizado en ámbitos científicos, educativos y de gestión medioambiental en 37 países. Siendo escogida por el Sistema de información ambiental de Cataluña como la aplicación oficial para la distribución de datos e información geográfica. De manera, que toda la cartografía elaborada por el Instituto Cartográfico de Cataluña (ICC) se realiza a través de esta SIG. Y su utilización está muy extendida en diferentes ámbitos de la administración, como el departamento catalán de medio ambiente y vivienda, agricultura, alimentación, acción rural, salud, agua, servicio meteorológico, ayuntamientos, etc. 
 
 A continuación, expongo detalladamente sus diversas funcionalidades, de manera que se puede justificar la hibridación justificada desde el punto de vista de L. Manovich. 
+
+![IMG 0291](https://postimage.me/images/2025/05/15/IMG_0291.jpeg)
 
 ### Estrategia de hibridación:
 
