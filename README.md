@@ -9,9 +9,23 @@ Fecha: 12 Mayo de 2025
 
 ## INTRODUCCIÓN
 
-Texto
+En la actualidad digitalizada que vivimos, los medios ya no existen de forma aislada. Según L. Manovich, los lenguajes mediáticos que antes estaban claramente diferenciados entre si ahora se fusionan dentro de las mismas interfaces de software, dando lugar a formas completamente nuevas de creación, comunicación y experiencia. Este proceso lo podemos definir como “Hibridación mediática”, siendo este un proceso en el cual *“diferentes tipos de datos y funciones mediáticas se integran funcionalmente en un única herramienta o plataforma de software”*, (Manovich, *El software toma el mando*, 2013).
+
+Siguiendo esta línea, herramientas como Miramon, un sistema de información geográfica, y Microsoft 365 Copilot, un asistente de inteligencia artificial integrado en herramientas ofimáticas, se presentan como dos ejemplos de esta hibridación. 
+Aunque cada uno de ellos responde a necesidades distintas y se desarrolla en entornos distintos, ambos programas revelan cómo el software actúa como un medio de medios.
+ 
+A continuación realizo un pequeño análisis de como la hibridación está presente en estos dos casos, desglosando sus funciones principales y relacionándolas con la visión de Manovich, para comprender cómo el software redefine los límites tradicionales de los medios y transforma nuestra relación con la información, creación y el conocimiento.   
+
 
 ## MICROSOFT 365 COPILOT: ESCRITURA, DATOS Y COMUNICACIÓN
+
+Microsoft 365 Copilot es la integración de inteligencia artificial dentro de su ya conocido y utilizado Windows 365 y otros servicios que ofrece Microsoft bajo subscripción. 
+
+El conjunto de herramientas (Word, Excel, Outlook, PowerPoint…) que todos conocemos bien, ya que son empleadas a menudo para realizar tareas de escritorio, han sido elevadas a su máxima utilidad gracias a la incorporación de la IA a su software. Con el objetivo de asistir, generar, resumir y automatizar tareas en tiempo real y según los requerimientos, necesidades y características del usuario. 
+
+Microsoft 365 Copilot representa una etapa avanzada de la evolución de las plataformas digitales de productividad. No es simplemente una herramienta auxiliar dentro del ecosistema Office, sino una transformación del medio ofimático tradicional, impulsada por la incorporación de la IA generativa. Para entender este fenómeno, resulta interesante recurrir a la visión de L. Manovich, quien propone que los medios digitales deben analizarse no solo como representaciones, sino como procesos vivos, en evolución constante, *El sofware toma el mando, 2013*. 
+
+Manovich plantea que los medios se comportan de similar manera a los organismos biológicos *“El crecimiento de un nuevo medio se da mediante la adaptación y la adopción de estrategias ya desarrolladas por otros medios”*, (Manovich, 2013, Cap. 4, pp 381). Así podemos entender a Microsoft 365 como un medio en evolución, que ha adoptado estrategias de hibridación para adaptarse a las condiciones digitales actuales. Y me permito hacer el símil de la integración de Copilot como una mutación del organismo dentro de esta evolución.  
 
 ### Estrategia de hibridación:
 
@@ -36,7 +50,7 @@ Copilot es capaz de combinar la información entre sus distintas aplicaciones ge
  
 ### Conclusión:
 
-
+Microsoft 365 Copilot representa una nueva etapa en la evolución de los medios digitales. La incorporación de la inteligencia artificial en aplicaciones de productividad tradicionales, dando lugar a una nueva forma de interacción, creación y comunicación muchísimo más completa y sofisticada. Haciendo de ella no solo una herramienta, sino un medio híbrido capaz de fusionar lenguaje, visualización, análisis y automatización dentro de una misma interfaz. 
 
 
 ## MIRAMON: FUSIÓN DE CIENCIA, IMAGEN Y SOFTWARE
