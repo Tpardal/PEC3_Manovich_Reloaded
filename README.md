@@ -24,7 +24,7 @@ Microsoft 365 Copilot es la integración de inteligencia artificial dentro de su
 
 El conjunto de herramientas (Word, Excel, Outlook, PowerPoint…) que todos conocemos bien, ya que son empleadas a menudo para realizar tareas de escritorio, han sido elevadas a su máxima utilidad gracias a la incorporación de la IA a su software. Con el objetivo de asistir, generar, resumir y automatizar tareas en tiempo real y según los requerimientos, necesidades y características del usuario. 
 
-Microsoft 365 Copilot representa una etapa avanzada de la evolución de las plataformas digitales de productividad. No es simplemente una herramienta auxiliar dentro del ecosistema Office, sino una transformación del medio ofimático tradicional, impulsada por la incorporación de la IA generativa. Para entender este fenómeno, resulta interesante recurrir a la visión de L. Manovich, quien propone que los medios digitales deben analizarse no solo como representaciones, sino como procesos vivos, en evolución constante, *El sofware toma el mando, 2013*. 
+Microsoft 365 Copilot representa una etapa avanzada de la evolución de las plataformas digitales de productividad. No es simplemente una herramienta auxiliar dentro del ecosistema Office, sino una transformación del medio ofimático tradicional, impulsada por la incorporación de la IA generativa. Para entender este fenómeno, resulta interesante recurrir a la visión de L. Manovich, quien propone que *los medios digitales deben analizarse no solo como representaciones, sino como procesos vivos, en evolución constante,* (El sofware toma el mando, 2013). 
 
 Manovich plantea que los medios se comportan de similar manera a los organismos biológicos *“El crecimiento de un nuevo medio se da mediante la adaptación y la adopción de estrategias ya desarrolladas por otros medios”*, (Manovich, 2013, Cap. 4, pp 381). Así podemos entender a Microsoft 365 como un medio en evolución, que ha adoptado estrategias de hibridación para adaptarse a las condiciones digitales actuales. Y me permito hacer el símil de la integración de Copilot como una mutación del organismo dentro de esta evolución.  
 
@@ -97,9 +97,9 @@ Según L. Manovich, este tipo de hibridación solo es posible gracias al softwar
 
 ## REFERENCIAS Y BIBLIOGRAFÍA
 
-- Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
-- Gea, M. (2022). **Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto**. Granada: Editorial Universidad de Granada.
-- McMillan, Robert (2012). **Lord of the Files: How Github Tamed Free Software (And More).**
-- Adell, Ferran (2024). **Fundamentos y evolución de la multimedia**. Editorial UOC
+- Manovich, Lev. (2013). El Software toma el mando. Barcelona: Editorial UOC.
+- Gea, M. (2022). Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto. Granada: Editorial Universidad de Granada.
+- McMillan, Robert (2012). Lord of the Files: How Github Tamed Free Software (And More).
+- Adell, Ferran (2024). Fundamentos y evolución de la multimedia. Editorial UOC
 - ¿Que es Miramon? En Miramon.cat. [Consulta: 12/05/2025] Disponible en: https://www.miramon.cat/what_mm/ESP/index.htm
 - Microsoft 365, Wikipedia: la enciclopedia libre. [Consulta: 12/05/2025] Disponible en: https://es.wikipedia.org/wiki/Microsoft_365
